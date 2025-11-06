@@ -1,0 +1,11 @@
+10
+8934974178637|Mat Biec|Nguyen Nhat Anh|NXB Tre|2022|Tieu thuyet|36500.000000|100
+8936066698849|Linh Hon Bao Thu|Joe Hill|Thanh Nien|2024|Trinh Tham|167000.000000|500
+9786045678901|De Men Phieu Luu Ky|To Hoai|Kim Dong|2020|Thieu nhi|48000.000000|300
+9786042056784|Harry Potter Va Hon Da Phu Thuy|J.K. Rowling|Tre|2019|Phieu luu|120000.000000|200
+9786047745673|Dac Nhan Tam|Dale Carnegie|NXB Tre|2021|Ky nang song|89000.000000|150
+9786046879032|Nha Gia Kim|Paulo Coelho|NXB Van Hoc|2018|Trinh Tham|99000.000000|250
+9786049876543|Tuoi Tre Dang Gia Bao Nhieu|Rosie Nguyen|NXB Tre|2022|Tam ly|95000.000000|400
+9786043991123|Toi Thay Hoa Vang Tren Co Xanh|Nguyen Nhat Anh|NXB Tre|2020|Tieu thuyet|67000.000000|220
+9786045678902|Kinh Van Hoa|Nguyen Nhat Anh|Kim Dong|2023|Thieu nhi|75000.000000|349
+9786047893214|Sherlock Holmes Toan Tap|Arthur Conan Doyle|Van Hoc|2021|Trinh tham|180000.000000|179
