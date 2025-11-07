@@ -2,8 +2,7 @@
 ## QUẢN LÝ THƯ VIỆN  
 
 **Sinh viên thực hiện:** Bùi Hưng Khang  
-**MSSV:** 25810006  
-**Giảng viên hướng dẫn:** Phạm Minh Tuấn  
+**MSSV:** 25810006   
 **Trường:** Đại học Khoa học Tự nhiên – Khoa Công nghệ Thông tin  
 **Thời gian:** 11/2025  
 
@@ -67,4 +66,5 @@ Xây dựng hệ thống **Quản lý Thư viện**, hỗ trợ người quản 
   - `change_date("DD/MM/YYYY") → YYYYMMDD`  
   - `format_date(YYYYMMDD) → DD/MM/YYYY`  
   - `between_days()` – tính số ngày trễ  
+
   - `add_days()` – cộng ngày tự động
